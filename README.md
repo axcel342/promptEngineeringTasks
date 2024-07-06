@@ -1,4 +1,4 @@
-# promptEngineeringTasks
+# PromptEngineeringTasks
 
 ## Overview
 Task 1 is a Social Media Post generator, Task2 is a personalized student timetable generator.
