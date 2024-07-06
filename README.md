@@ -5,8 +5,8 @@ Task 1 is a Social Media Post generator, Task2 is a personalized student timetab
 
 ## Prerequisites
 To run this project, you need to have the following installed:
-- [Python]
-- [Pip]
+- Python
+- Pip
 
 ## Installation
 
